@@ -1,2 +1,3 @@
-# .github
-AQILA org profile README and community health files
+# myaqila/.github
+
+Org profile README for [github.com/myaqila](https://github.com/myaqila) lives in `profile/README.md`.
